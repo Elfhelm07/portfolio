@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "journey-into-ai-engineering",
+    "title": "My Journey into AI Engineering",
+    "date": "2024-02-15",
+    "readTime": "5 min read",
+    "excerpt": "Reflecting on my path from a curious computer science student to an AI engineer, I have realized how much the field has evolved. The challenges and opportunities in AI continue to inspire me every day.",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "When I first started my journey into AI engineering, I was a curious computer science student fascinated by the potential of artificial intelligence. The field was already evolving rapidly, but I couldn't have predicted just how transformative it would become."
+      },
+      {
+        "type": "heading",
+        "content": "The Beginning"
+      },
+      {
+        "type": "paragraph",
+        "content": "My initial exposure to AI came through basic machine learning algorithms and Python programming. I spent countless hours working through tutorials, implementing algorithms from scratch, and gradually building a foundation in the fundamental concepts."
+      },
+      {
+        "type": "heading",
+        "content": "Challenges and Growth"
+      },
+      {
+        "type": "paragraph",
+        "content": "One of the biggest challenges I faced was bridging the gap between theoretical knowledge and practical implementation. Academic concepts often seemed straightforward, but applying them to real-world problems required a different set of skills entirely."
+      },
+      {
+        "type": "heading",
+        "content": "Current State and Future"
+      },
+      {
+        "type": "paragraph",
+        "content": "Today, as I work on implementing AI solutions for real-world problems, I'm constantly amazed by the field's rapid advancement. The challenges and opportunities in AI continue to inspire me, and I'm excited to be part of this revolutionary technology's development."
+      }
+    ],
+    "tags": ["AI", "Career", "Learning"]
+  },
+  {
+    "slug": "building-scalable-ml-systems",
+    "title": "Building Scalable ML Systems",
+    "date": "2024-02-01",
+    "readTime": "8 min read",
+    "excerpt": "A deep dive into the architecture and design principles behind building machine learning systems that can scale. From model deployment to monitoring and maintenance.",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Building scalable machine learning systems is one of the most challenging aspects of modern software engineering. In this post, I'll share my experiences and insights on creating ML systems that can grow with your needs."
+      },
+      {
+        "type": "heading",
+        "content": "Architecture Fundamentals"
+      },
+      {
+        "type": "paragraph",
+        "content": "The foundation of any scalable ML system lies in its architecture. Key considerations include data pipeline design, model serving infrastructure, and monitoring systems."
+      },
+      {
+        "type": "heading",
+        "content": "Model Deployment Strategies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Deploying ML models at scale requires careful consideration of various factors including hardware requirements, latency constraints, and serving patterns."
+      },
+      {
+        "type": "heading",
+        "content": "Monitoring and Maintenance"
+      },
+      {
+        "type": "paragraph",
+        "content": "Continuous monitoring and maintenance are crucial for the long-term success of ML systems. This includes tracking model performance, data drift, and system health metrics."
+      }
+    ],
+    "tags": ["Machine Learning", "System Design", "Architecture"]
+  },
+  {
+    "slug": "evolution-of-computer-vision",
+    "title": "The Evolution of Computer Vision",
+    "date": "2024-01-15",
+    "readTime": "6 min read",
+    "excerpt": "Exploring the fascinating journey of computer vision technology, from traditional image processing to modern deep learning approaches.",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Computer vision has come a long way from basic image processing to sophisticated deep learning models. Let's explore this fascinating evolution and its implications for the future."
+      },
+      {
+        "type": "heading",
+        "content": "Traditional Approaches"
+      },
+      {
+        "type": "paragraph",
+        "content": "Early computer vision relied heavily on hand-crafted features and classical image processing techniques. While limited, these approaches laid the groundwork for modern methods."
+      },
+      {
+        "type": "heading",
+        "content": "Deep Learning Revolution"
+      },
+      {
+        "type": "paragraph",
+        "content": "The advent of deep learning, particularly Convolutional Neural Networks (CNNs), revolutionized computer vision. Tasks that were once considered extremely challenging became increasingly tractable."
+      },
+      {
+        "type": "heading",
+        "content": "Future Directions"
+      },
+      {
+        "type": "paragraph",
+        "content": "As we look to the future, emerging technologies like transformers and self-supervised learning are pushing the boundaries of what's possible in computer vision."
+      }
+    ],
+    "tags": ["Computer Vision", "Deep Learning", "AI"]
+  }
+]
+

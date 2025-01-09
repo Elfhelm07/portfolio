@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "welcome-to-my-blog",
+    "title": "Welcome to My Blog",
+    "date": "2024-03-01",
+    "readTime": "3 min read",
+    "excerpt": "Welcome to my new blog! Here, I'll be sharing my thoughts and experiences in AI, Machine Learning, and Software Engineering.",
+    "tags": ["Introduction", "AI", "Machine Learning", "Python"]
+  },
+  {
+    "slug": "journey-into-ai-engineering",
+    "title": "My Journey into AI Engineering",
+    "date": "2024-02-15",
+    "readTime": "5 min read",
+    "excerpt": "Reflecting on my path from a curious computer science student to an AI engineer, I have realized how much the field has evolved. The challenges and opportunities in AI continue to inspire me every day.",
+    "tags": ["AI", "Career", "Learning"]
+  },
+  {
+    "slug": "building-scalable-ml-systems",
+    "title": "Building Scalable ML Systems",
+    "date": "2024-02-01",
+    "readTime": "8 min read",
+    "excerpt": "A deep dive into the architecture and design principles behind building machine learning systems that can scale. From model deployment to monitoring and maintenance.",
+    "tags": ["Machine Learning", "System Design", "Architecture"]
+  },
+  {
+    "slug": "evolution-of-computer-vision",
+    "title": "The Evolution of Computer Vision",
+    "date": "2024-01-15",
+    "readTime": "6 min read",
+    "excerpt": "Exploring the fascinating journey of computer vision technology, from traditional image processing to modern deep learning approaches.",
+    "tags": ["Computer Vision", "Deep Learning", "AI"]
+  }
+]
+

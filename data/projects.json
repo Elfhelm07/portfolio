@@ -1,0 +1,107 @@
+[
+  {
+    "title": "ANPR - Automatic Number Plate Detection",
+    "description": [
+      "Engineered a Machine Learning model for license plate recognition",
+      "Implemented a Fast API endpoint for seamless integration",
+      "Achieved 94.7% accuracy and reduced processing time to under 1 second",
+      "Collaborating with Vadodara police for deployment across Toll Plazas"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["AI", "ML", "Computer Vision", "Object Detection", "Image Processing", "Video Processing"],
+    "githubUrl": "https://github.com/Elfhelm07/ANPR"
+  },
+  {
+    "title": "Yoga Pose Detector and Corrector",
+    "description": [
+      "Developed a live yoga pose detector and corrector",
+      "Gives individual instructions and feedback to help user get the perfect pose",
+      "Added a Translucent ideal pose outline for visual aid to user",
+      "used media pipe pose to analyse different pose and store its data for future reference"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Python", "Computer Vision", "OpenCV", "Mediapipe", "Flask"],
+    "githubUrl": "https://github.com/Elfhelm07/yoga_pose_detector-and-corrector"
+  },
+  {
+    "title": "Quick Ben",
+    "description": [
+      "Developed a customizable web scraper and summarizer",
+      "Implemented source-end page scraping functionality",
+      "Created an external module for expanded web scraping capabilities",
+      "Currently integrating image functionality and file format conversion"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Python", "Web Scraping", "Web Crawling", "Flask"],
+    "githubUrl": "https://github.com/Elfhelm07/QuickBen"
+  },
+  {
+    "title": "4sync",
+    "description": [
+      "Enhanced module to support multiple platforms (Windows, macOS, Linux, iOS, Android)",
+      "Implemented a flexible library interface for seamless application integration",
+      "Developed a user-friendly system for accessing synced files across all devices",
+      "Ensured automatic document updates to reflect real-time changes"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Docker", "Python", "Javascript", "NodeJS", "MongoDB"],
+    "githubUrl": "https://github.com/Elfhelm07/4sync"
+  },
+  {
+    "title": "System Automation",
+    "description": [
+      "Created a suite of automated tasks for common system operations",
+      "Implemented application launch on startup and key-bind triggered multi-app launch",
+      "Developed automated data backup and system health checkup features",
+      "Integrated automatic application updates with customizable parameters"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Python", "Automation", "Process Automation"],
+    "githubUrl": "https://github.com/Elfhelm07/system_automation"
+  },
+  {
+    "title": "Automation Testing",
+    "description": [
+      "Developed a frontend automation testing framework",
+      "Automatically generates reports on current vulnerabilities, non-existing pages, and performance reviews",
+      "Provides complexity assessment and seriousness of identified issues"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Python", "Selenium", "Automation"],
+    "githubUrl": "https://github.com/Elfhelm07/Basic_Automation_Testing"
+  },
+  {
+    "title": "Deforestation Detector",
+    "description": [
+      "Created a model to detect mass deforestation over a fixed period",
+      "Implemented alert system for authorities when deforestation exceeds set thresholds",
+      "Utilized satellite image processing and computer vision techniques"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Computer Vision", "Satellite Image Processing", "Python", "Flask"],
+    "githubUrl": "https://github.com/Elfhelm07/deforestation-detector"
+  },
+  {
+    "title": "RecruitME",
+    "description": [
+      "Developed an AI platform to streamline the recruiting process",
+      "Implemented AI-powered personality and technical assessments",
+      "Increased accuracy of candidate evaluation using natural language processing"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Python", "AI", "NLP", "Flask", "ReactJS"],
+    "githubUrl": "https://github.com/Elfhelm07/RecruitME"
+  },
+  {
+    "title": "Noteverse",
+    "description": [
+      "Developed a cross-platform document reader (CPDR)",
+      "Implemented synchronization of bookmarks, annotations, notes, and page numbers across devices",
+      "Ensured a smooth reading experience with automatic syncing"
+    ],
+    "image": "/placeholder.svg?height=200&width=300",
+    "techStack": ["Docker", "Python", "Javascript", "NodeJS", "HTML5", "CSS", "OPDS"],
+    "githubUrl": "https://github.com/Elfhelm07/Noteverse"
+  }
+]
+

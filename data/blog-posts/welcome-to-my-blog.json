@@ -1,0 +1,47 @@
+{
+  "slug": "welcome-to-my-blog",
+  "title": "Welcome to My Blog",
+  "date": "2024-03-01",
+  "readTime": "3 min read",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "Welcome to my new blog! Here, I'll be sharing my thoughts and experiences in AI, Machine Learning, and Software Engineering."
+    },
+    {
+      "type": "heading",
+      "content": "What to Expect"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Insights into the latest AI and ML technologies",
+        "Software engineering best practices",
+        "Personal projects and experiences"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "I'm excited to embark on this journey of sharing knowledge and learning from the community. Stay tuned for more content coming soon!"
+    },
+    {
+      "type": "heading",
+      "content": "A Simple Python Example"
+    },
+    {
+      "type": "paragraph",
+      "content": "Here's a quick example of a Python function that demonstrates a basic machine learning concept - calculating the Euclidean distance between two points:"
+    },
+    {
+      "type": "code",
+      "language": "python",
+      "content": "import math\n\ndef euclidean_distance(point1, point2):\n    \"\"\"\n    Calculate the Euclidean distance between two points.\n    \n    :param point1: A tuple or list representing the first point (x1, y1)\n    :param point2: A tuple or list representing the second point (x2, y2)\n    :return: The Euclidean distance between the two points\n    \"\"\"\n    x1, y1 = point1\n    x2, y2 = point2\n    return math.sqrt((x2 - x1)**2 + (y2 - y1)**2)\n\n# Example usage\npoint_a = (0, 0)\npoint_b = (3, 4)\ndistance = euclidean_distance(point_a, point_b)\nprint(f\"The distance between {point_a} and {point_b} is {distance}\")"
+    },
+    {
+      "type": "paragraph",
+      "content": "This function is commonly used in various machine learning algorithms, such as k-Nearest Neighbors (k-NN) and clustering algorithms."
+    }
+  ],
+  "tags": ["Introduction", "AI", "Machine Learning", "Python"]
+}
+

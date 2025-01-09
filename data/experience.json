@@ -1,0 +1,53 @@
+{
+  "work": [
+    {
+      "title": "Data Engineer Intern",
+      "company": "PlayTheory Labs.",
+      "period": "Dec 2024 - Present",
+      "description": [
+        "Developed and managed a high-influx data pipeline using Python and NLP processing techniques",
+        "Utilized natural language processing to extract relevant insights from large datasets",
+        "Implemented data processing and storage solutions to handle high-volume data streams",
+        "Collaborated with the team to design and implement efficient data pipelines",
+        "Developed modules for data preprocessing, feature extraction, and model training"
+      ],
+      "skills": ["Python", "NLP Processing", "Data Science", "Docker", "Flask", "C++"]
+    },
+    {
+      "title": "Machine Learning Engineer Intern",
+      "company": "Vaultxledgers",
+      "period": "Feb 2024 - Dec 2024",
+      "description": [
+        "Developing AI/ML solutions for Government Pilot projects",
+        "Engineered a license plate recognition and record-keeping prototype model",
+        "Improved accuracy from 87% to 94.7%, decreased average time from 14 seconds to under 1 second",
+        "Developing modules for anomaly detection, helmet detection, and event monitoring",
+        "Collaborating with Vadodara police for deployment across Toll Plazas"
+      ],
+      "skills": ["AI", "ML", "Docker", "Flask", "C++", "Python", "Data Science"]
+    },
+    {
+      "title": "AI/ML intern",
+      "company": "Teachnook",
+      "period": "Apr 2023 - May 2023",
+      "description": [
+        "Basic model training and deployment",
+        "Gained hands-on experience with data analysis and machine learning techniques"
+      ],
+      "skills": ["Pandas", "Data Science", "Python", "ML", "Data Analysis", "AI"]
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Tech. - CSE - Artificial Intelligence - PIET",
+      "institution": "Parul University",
+      "period": "2021 - 2025",
+      "description": "Currently pursuing with a focus on Artificial Intelligence and Machine Learning.",
+      "achievements": [
+        "Active participant in AI/ML research projects",
+        "Member of the university's coding club"
+      ]
+    }
+  ]
+}
+
